@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Aniqua Tasnim!
+
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** focusing on the **MERN Stack (MongoDB, Express.js, React, Node.js)**. I enjoy creating efficient and scalable solutions while exploring modern web technologies.
+
+---
+
+## 🌟 About Me
+
+- 🌱 Currently diving deep into the MERN stack  
+- 🎯 Goal: Build dynamic and user-friendly web applications  
+- 💡 Passionate about full-stack development and problem-solving  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code
+- **Scripting:** PowerShell, Bash  
+- **Orchestration:** Ansible, StackStorm  
+
+---
+
+## 📫 How to Reach Me    
+- 💼 LinkedIn: https://www.linkedin.com/in/aniqua-tasnim-8455bb1a9  
+
+Excited to connect, collaborate, and contribute! 🚀
+
